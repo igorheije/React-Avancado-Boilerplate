@@ -9,6 +9,7 @@ function App({ Component, pageProps }: AppProps) {
       <Head>
         <title>React Avançado - Boilerplate</title>
         <link rel="shortcut icon" href="" />
+        <link rel="manifest" href="/static/manifest.json" />
         <meta
           name="description"
           content="A simple project starter to work with TypeScript, React, NextJS and Styled Components"
